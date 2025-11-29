@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rishabh Kharwar</h1>
+<h3 align="center">Full-Stack Developer | MERN | AI Enthusiast</h3>
 
-<!--
-**rishabhkharwar/rishabhkharwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently building **smart, AI-powered web applications**  
+- 🌱 Learning more about **ML, backend scaling & system design**  
+- 🤝 Open to collaborating on **MERN, AI, real-time apps, and creative UI/UX projects**  
+- 💬 Ask me about **APIs, authentication, MongoDB, and React architecture**  
+- ⚡ Fun fact: I love creating apps that start as tiny ideas and become full products  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Languages & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,html,css,tailwind" />
+</p>
+
+### 🛠️ Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkharwar&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkharwar&layout=compact&theme=tokyonight" height="180px" />
+</p>
+
+---
+
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rishabhkharwar&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Featured Projects  
+- 🚀 **StudyMate** – AI-powered student assistant (MERN + OpenAI)  
+- 🍽️ **FoodFeed** – Zomato-inspired platform with reels-style content  
+- 📝 **CollabNote** – Real-time MERN note-sharing app with file uploads  
+
+---
+
+## 🌐 Connect With Me  
+<p>
+  <a href="https://github.com/rishabhkharwar"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://www.linkedin.com/in/rishabh-kharwar"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:rishabhkharwar674@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
+
